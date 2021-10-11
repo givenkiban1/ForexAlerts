@@ -1,4 +1,6 @@
 venv/
 .env
 
+forexalerts.json
+
 ngrok.exe
